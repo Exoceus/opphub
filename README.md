@@ -17,4 +17,4 @@ Some of the biggest things I would change if I were to resume development on thi
 While most of my recent work is done on private repos (professional workd, school projects, personal projects), my more recent projects are better documented and are a better representation of my abilities.
 
 ## Technical Details
-The project is strucutred as a mono-repo containing both the server logic and client-side logic, which are deployed together. The core API is found at `/api/<topic>`. 
+The project is strucutred as a mono-repo containing both the server logic and client-side logic, which are deployed together. The core API is found at `/api/<topic>` which uses Node.js and Express for middleware. The React-based frontend can be found under `client` folder. 
