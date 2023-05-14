@@ -22,7 +22,7 @@ if (process.env.NODE_ENV === 'production') {
   uri = process.env.MONGO_URI
 }
 else {
-  uri = "mongodb+srv://jatin:jatin123@testingcluster-pn17a.gcp.mongodb.net/test?retryWrites=true&w=majority"
+  uri = ""
 }
 
 mongoose.connect(uri, { useNewUrlParser: true, useCreateIndex: true, useFindAndModify: false }
