@@ -6,7 +6,9 @@
 [Visit Site](https://www.opp-hub.com/)
 
 ## Context
-This repository is acctually an internal fork of the (private) OppHub source code which is currently deployed at opp-hub.com. I began work on OppHub in 2020 at a time where I found myself having a lot of free time due to the pandemic. Thus, I decided to learn through building and decided to build out my first full stack web app. The main point I wanted to emphasize is that this an inaccurate representation of my ability to code as this was arguable the first meaningful code I ever wrote and was written before I ever learnt about code organization, source control, readability and various programming principles. My goal with OppHub was simply to build something that atleast one person in the world outside of myself found useful 
+This repository is acctually an internal fork of the (private) OppHub source code which is currently deployed at opp-hub.com. I began work on OppHub in 2020 at a time where I found myself having a lot of free time due to the pandemic and has not been worked since summer of 2021. Thus, I decided to learn through building and decided to build out my first full stack web app. The main point I wanted to emphasize is that this an inaccurate representation of my ability to code as this was arguable the first meaningful code I ever wrote and was written before I ever learnt about code organization, source control, readability and various programming principles. My goal with OppHub was simply to build something that atleast one person in the world outside of myself found useful.
+
+Some of the biggest things I would change if I was
 
 While most of my recent work is done on private repos (professional workd, school projects, personal projects), my more recent projects are better documented and are a better representation of my abilities.
 
